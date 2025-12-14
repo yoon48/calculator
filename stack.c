@@ -3,6 +3,8 @@
 #include "stack.h"
 #include <string.h>
 
+//202413359 À±Àººó °úÁ¦#3
+
 Stack * create_stack(int initial_size)
 {
 	Stack * s = (Stack *)malloc(sizeof(Stack));
